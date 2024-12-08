@@ -1,0 +1,476 @@
+[
+    {
+        "fecha": "2024-12-04 18:33:25",
+        "operacion": "acceso",
+        "tipo": "login",
+        "mensaje": "Acceso a p\u00e1gina de login"
+    },
+    {
+        "fecha": "2024-12-04 18:33:43",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:03:39",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:04:29",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:12:11",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:12:12",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:13:50",
+        "operacion": "acceso",
+        "tipo": "login",
+        "mensaje": "Acceso a p\u00e1gina de login"
+    },
+    {
+        "fecha": "2024-12-04 19:14:12",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:15:08",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:17:51",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:21:38",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:23:33",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:25:31",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:26:25",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:26:28",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:27:19",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:28:18",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:30:22",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:31:31",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:31:48",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:31:55",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:32:20",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:32:57",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:33:15",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:34:14",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:34:45",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:36:44",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:46:29",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:48:11",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:50:43",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:52:09",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:54:03",
+        "operacion": "error",
+        "tipo": "familia",
+        "mensaje": "Error al listar familias: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "fecha": "2024-12-04 19:54:11",
+        "operacion": "error",
+        "tipo": "familia",
+        "mensaje": "Error al listar familias: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "fecha": "2024-12-04 19:54:42",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:58:18",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 19:58:21",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 20:06:01",
+        "operacion": "acceso",
+        "tipo": "login",
+        "mensaje": "Acceso a p\u00e1gina de login"
+    },
+    {
+        "fecha": "2024-12-04 20:06:13",
+        "operacion": "error",
+        "tipo": "familia",
+        "mensaje": "Error al listar familias: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/familia/list (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A048F7E3C0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexi\u00f3n ya que el equipo de destino deneg\u00f3 expresamente dicha conexi\u00f3n'))"
+    },
+    {
+        "fecha": "2024-12-04 20:06:34",
+        "operacion": "error",
+        "tipo": "familia",
+        "mensaje": "Error al listar familias: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/familia/list (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A04900D450>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexi\u00f3n ya que el equipo de destino deneg\u00f3 expresamente dicha conexi\u00f3n'))"
+    },
+    {
+        "fecha": "2024-12-04 20:07:29",
+        "operacion": "acceso",
+        "tipo": "login",
+        "mensaje": "Acceso a p\u00e1gina de login"
+    },
+    {
+        "fecha": "2024-12-04 20:07:37",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 20:12:29",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 20:19:53",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 20:21:27",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 20:21:45",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 20:27:23",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 20:29:59",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 20:30:21",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-04 22:19:03",
+        "operacion": "acceso",
+        "tipo": "login",
+        "mensaje": "Acceso a p\u00e1gina de login"
+    },
+    {
+        "fecha": "2024-12-04 22:19:07",
+        "operacion": "acceso",
+        "tipo": "admin",
+        "mensaje": "Acceso a panel de administraci\u00f3n"
+    },
+    {
+        "fecha": "2024-12-04 22:19:14",
+        "operacion": "acceso",
+        "tipo": "admin",
+        "mensaje": "Acceso a panel de administraci\u00f3n"
+    },
+    {
+        "fecha": "2024-12-04 22:20:02",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-05 21:29:53",
+        "operacion": "acceso",
+        "tipo": "login",
+        "mensaje": "Acceso a p\u00e1gina de login"
+    },
+    {
+        "fecha": "2024-12-05 21:30:01",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-05 21:30:05",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-05 22:01:03",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-05 22:02:41",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-05 22:13:44",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-05 22:16:47",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-05 22:17:30",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Acceso a registro de familia"
+    },
+    {
+        "fecha": "2024-12-05 22:18:39",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-05 22:19:39",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-05 22:24:32",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-06 00:59:30",
+        "operacion": "acceso",
+        "tipo": "login",
+        "mensaje": "Acceso a p\u00e1gina de login"
+    },
+    {
+        "fecha": "2024-12-06 00:59:54",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-06 02:51:35",
+        "operacion": "acceso",
+        "tipo": "login",
+        "mensaje": "Acceso a p\u00e1gina de login"
+    },
+    {
+        "fecha": "2024-12-06 02:51:48",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-06 09:36:38",
+        "operacion": "acceso",
+        "tipo": "login",
+        "mensaje": "Acceso a p\u00e1gina de login"
+    },
+    {
+        "fecha": "2024-12-06 09:36:49",
+        "operacion": "error",
+        "tipo": "familia",
+        "mensaje": "Error al listar familias: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/familia/list (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002AB613263C0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexi\u00f3n ya que el equipo de destino deneg\u00f3 expresamente dicha conexi\u00f3n'))"
+    },
+    {
+        "fecha": "2024-12-06 09:38:01",
+        "operacion": "acceso",
+        "tipo": "login",
+        "mensaje": "Acceso a p\u00e1gina de login"
+    },
+    {
+        "fecha": "2024-12-06 09:38:10",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-06 11:10:16",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Acceso a registro de familia"
+    },
+    {
+        "fecha": "2024-12-06 11:10:33",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-08 09:56:03",
+        "operacion": "acceso",
+        "tipo": "login",
+        "mensaje": "Acceso a p\u00e1gina de login"
+    },
+    {
+        "fecha": "2024-12-08 09:56:15",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-08 10:39:31",
+        "operacion": "acceso",
+        "tipo": "login",
+        "mensaje": "Acceso a p\u00e1gina de login"
+    },
+    {
+        "fecha": "2024-12-08 10:39:40",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    },
+    {
+        "fecha": "2024-12-08 11:49:12",
+        "operacion": "acceso",
+        "tipo": "login",
+        "mensaje": "Acceso a p\u00e1gina de login"
+    },
+    {
+        "fecha": "2024-12-08 11:49:28",
+        "operacion": "consulta",
+        "tipo": "familia",
+        "mensaje": "Listado de familias consultado"
+    }
+]
